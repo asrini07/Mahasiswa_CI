@@ -1,0 +1,23 @@
+body,table{
+    font-family: tahoma;
+    font-size: 11px;
+}
+div.window_inner .title, #side-left,#footer,#copyright,#close,#toolbar{
+    display: none;
+}
+div.window_outer,div.window_inner,div.window_inner,#content_box,.content,#printer,#preview{
+    display: block;
+}
+#preview table#print,#header-tabel table{
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    font-size: 11px;
+}
+#preview table#print th,#preview table#print td,#header-tabel td,#header-tabel th{
+    border-bottom: 1px solid #000;
+    border-right: 2px solid #000;
+    border-top: 1px solid #000;
+}
+#table{
+    margin: 10px;
+    }

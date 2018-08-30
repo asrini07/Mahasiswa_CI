@@ -1,0 +1,26 @@
+
+
+#countdown_dashboard {
+	height: 110px;
+}
+
+.dash {
+	width: 90px;
+	height: 114px;
+	background: transparent url('../images/dash.png') 0 0 no-repeat;
+	float: left;
+	margin-left: 5px;
+	position: relative;
+}
+.dash .digit {
+	font-size: 35pt;
+	font-weight: bold;
+	float: left;
+	width: 35px;
+	text-align: center;
+	font-family: Times;
+	color: #555;
+	position: relative;
+}
+
+
