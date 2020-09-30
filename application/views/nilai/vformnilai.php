@@ -72,12 +72,6 @@
 				</div>
 			</div>
 			<div class="box-footer">
-				<!-- <div class="pull-right">
-	                <div class="btn-group">
-	                   <button type=submit class="simpan btn btn-primary btn-md" title="Add"><i class="fa fa-save"></i></button>
-	                   <button class="batal btn btn-danger btn-md" title="Batal"><i class="fa fa-times-circle"></i></button>
-	                </div>
-	            </div> -->
 			</div>
 			<?php 
 				echo form_close();

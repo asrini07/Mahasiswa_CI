@@ -71,8 +71,6 @@
 							        <span class="btn btn-warning btn-file"><i class="fa fa-folder-open"></i>&nbsp;&nbsp;Browse<input type="file" name="foto" class="form-control"></span>
 							    </span>
 							</div> 
-
-							<!-- <input class="form-control" type="text" required name="foto" value="<?php echo $foto; ?>" /> -->
 						</div>
 						<div class="col-sm-4">
 							<div class="image">

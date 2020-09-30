@@ -144,29 +144,6 @@
             <li><a href="<?php echo site_url('laporan');?>"><i class="fa fa-circle-o"></i> Laporan Nilai</a></li>
           </ul>
         </li>
-        
-            
-            
-            <!--<li class="treeview <?php echo ($menu=="warga" ? "active" : "");?>">
-            <a href="<?php echo site_url('warga');?>">
-              <i class="fa fa-users"></i>
-              <span>Warga</span>
-            </a>
-            </li>
-            <li class="treeview <?php echo ($menu=="transaksi" ? "active" : "");?>">
-              <a href="<?php echo site_url('transaksi');?>">
-                <i class="fa fa-exchange"></i>
-                <span>Transaksi Perumahan</span>
-                <i class="fa fa-angle-left pull-right"></i>
-              </a>
-              <ul class="treeview-menu">
-                <li>
-                  <a href="<?php echo site_url('transaksi');?>"><i class="fa fa-angle-double-right"></i> Setting Kewajiban</a>
-                  <a href="<?php echo site_url('transaksi/pilih');?>"><i class="fa fa-angle-double-right"></i> Transaksi Kewajiban</a>
-                  <a href="<?php echo site_url('transaksi/listbayar');?>"><i class="fa fa-angle-double-right"></i> List Detail</a>
-                </li>
-              </ul>
-            </li> -->
           </ul>
         </section>
         <!-- /.sidebar -->
