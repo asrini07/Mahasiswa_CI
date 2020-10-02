@@ -84,7 +84,6 @@
                   echo img(array("src"=>"img/foto/mahasiswa/".$data->foto,"width"=>"50","class"=>"img-circle"));
                 }
 
-                  // <img src="dist/img/user1-128x128.jpg" alt="User Image">
              echo'     <a class="users-list-name" href="#">'.$data->nama.'</a>
                   <span class="users-list-date">'.$data->nim.'</span>
                 </li>

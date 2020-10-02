@@ -27,10 +27,6 @@
         <div class="login-box pull-left">
             <div class="login-box-body box box-solid">
                 <div class="box-header"><h3 class="text-center" style="letter-spacing: 0.8px;"><b>LOGIN</b></h3></div>
-                <!-- <div class="login-logo">
-                  <img src="<?php echo base_url();?>/img/job.png" height="200px"> -->
-                  <!-- <br>
-                  <h4 class="login-box-msg text-red text-bold">UNIVERSITAS MUHAMMADIYAH CIREBON</h4></div> --> 
                 <?php echo form_open('login/login_process');?>
                 <div class="form-group has-feedback">
                     <input type="text" name="username" class="form-control" placeholder="Username">
